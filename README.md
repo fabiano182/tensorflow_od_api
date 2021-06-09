@@ -2,15 +2,18 @@
 
 TensorFlow 2 - Object Detection API
 
-Detecção e Classificação de Imagens utilizando Redes Neurais e ferramentas disponíveis na API do TensorFlow.
+Image Detection and Classification using Neural Networks and tools available in the TensorFlow Objetct Detection API.
 
+## References:
 
-## Referências:
+TensorFlow 2 Object Detection API: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
 
-    TensorFlow 2 Object Detection API: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
+TensorFlow 2 Detection Model Zoo: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 
-    TensorFlow 2 Detection Model Zoo: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+TensorFlowHub (Object Detection): https://tfhub.dev/tensorflow/collections/object_detection/1
 
-    TensorFlowHub (Object Detection): https://tfhub.dev/tensorflow/collections/object_detection/1
+Colab Tutorials: https://github.com/tensorflow/models/tree/master/research/object_detection/colab_tutorials
 
-    Exemplo: https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb
+LabelImg: https://github.com/tzutalin/labelImg
+
+Example: https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0
