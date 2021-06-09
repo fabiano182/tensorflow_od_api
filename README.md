@@ -17,3 +17,5 @@ Colab Tutorials: https://github.com/tensorflow/models/tree/master/research/objec
 LabelImg: https://github.com/tzutalin/labelImg
 
 Example: https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0
+
+Running TF2 Detection API Models on mobile: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tf2.md
