@@ -14,8 +14,14 @@ TensorFlowHub (Object Detection): https://tfhub.dev/tensorflow/collections/objec
 
 Colab Tutorials: https://github.com/tensorflow/models/tree/master/research/object_detection/colab_tutorials
 
-LabelImg: https://github.com/tzutalin/labelImg
-
 Example: https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0
 
 Running TF2 Detection API Models on mobile: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tf2.md
+
+Creating a custom Dataset:
+
+    Video: https://www.youtube.com/watch?v=cvyDYdI2nEI
+
+    Wittren: https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model
+
+    LabelImg: https://github.com/tzutalin/labelImg
